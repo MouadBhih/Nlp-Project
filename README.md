@@ -119,7 +119,7 @@ The project implements **Facebook's MUSE** (Multilingual Unsupervised and Superv
 
 **Result**: English and French word embeddings are mapped to a shared semantic space!
 
-## 🎯 Semantic Analysis Tasks
+##  Semantic Analysis Tasks
 
 ### Task 1: Synonyms & Antonyms (English)
 - Find semantically similar words using Word2Vec
